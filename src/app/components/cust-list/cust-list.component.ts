@@ -24,7 +24,6 @@ hasSearchName: any;
    }
    getAllCustomers():void{
     
-
     this.hasSearchName = this.activateRoute.snapshot.paramMap.has("cname");
 
 
